@@ -1,2 +1,2 @@
-# project_rent_tech
-Analyzed a dataset of 2139 items to discover what are the items that are rented the most, returned the most, seen a lot on the webpage but rarely bought. Also looked at the price of renting vs price of buying 1 brand new, the efficacy of different subscription prices and the performance of different plans.
+# project_tech_renting
+Analyzed a dataset of 2139 items to discover what are the items that are rented the most, returned the most, checked a lot on the webpage but with terrible conversion. Also looked at the price of renting the item for different periods of time vs the price of buying the item brand new, the efficacy of different subscription prices and the performance of different plans, diving into over the results after 6 months of activity. All of this, and more.
